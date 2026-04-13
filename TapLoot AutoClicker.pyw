@@ -168,3 +168,4 @@ if __name__ == "__main__":
     threading.Thread(target=auto_press_loop, daemon=True).start()
     root = build_gui()
     root.mainloop()
+    
