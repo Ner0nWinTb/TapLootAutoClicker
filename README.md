@@ -3,7 +3,7 @@ A script that automatically presses keys in Tap Tap Loot.
 ## Requirements
 
 - Python 3.x
-- Bongo Cat (Steam)
+- Tap Tap Loot (Steam)
 
 ## Installation
 Install the required libraries:
